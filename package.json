@@ -1,0 +1,14 @@
+{
+  "name": "goit-advancedjs-hw-05",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "author": "Viacheslav Dmytriiev <slavutich.org@gmail.com>",
+  "devDependencies": {
+    "@web/dev-server": "^0.4.6",
+    "typescript": "^5.8.3"
+  }
+}
